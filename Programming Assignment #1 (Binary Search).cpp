@@ -1,7 +1,10 @@
 *********** Instructions ***********
 Binary Search
 
-A boy goes to buy video games from a shop.The shop contains N unique video games.The prices of the games are given in the form of an array A.The price of ith games is A[i].Now the boy has q queries, in each query he wants to know the number of unique games that have a price less than the given amount M.Input:
+A boy goes to buy video games from a shop.The shop contains N unique video games.The prices of the games are given in the form of an array A.
+The price of ith games is A[i].Now the boy has q queries, in each query he wants to know the number of unique games that have a price less than the given amount M.
+
+Input:
 
 The first line contains an integer N total number of unique video games available in the shop.
 
