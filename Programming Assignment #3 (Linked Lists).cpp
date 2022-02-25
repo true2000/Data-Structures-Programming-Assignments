@@ -17,6 +17,7 @@ Sample Output:
 24 18 2 3 5 7 9 12 6
 ************************************
 */
+
 #include <iostream>
 using namespace std;
 
