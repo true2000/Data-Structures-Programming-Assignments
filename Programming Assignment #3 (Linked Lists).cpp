@@ -1,3 +1,22 @@
+/*
+*********** Instructions ***********
+Linked Lists
+
+You are given a linked list that contains N integers. You are to perform the following reverse operation on the list:
+
+Select all the subparts of the list that contain only even integers. For example, if the list is {1,2,8,9,12,16}, 
+then the selected subparts will be {2,8}, {12,16}. Reverse the selected subpart such as {8,2} and {16,12}. The list should now be {1,8,2,9,16,12}.
+
+Your node definition should consist of 2 elements: the integer value and a pointer to a node.
+
+Sample Input:
+9
+2 18 24 3 5 7 9 6 12
+
+Sample Output:
+24 18 2 3 5 7 9 12 6
+************************************
+*/
 #include <iostream>
 using namespace std;
 
