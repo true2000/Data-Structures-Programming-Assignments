@@ -7,14 +7,14 @@ The price of ith games is A[i].Now the boy has q queries, in each query he wants
 Input:
 
 The first line contains an integer N total number of unique video games available in the shop.
-
 The second line contains N space - separated integers(the price of the games).
-
 The third line contains Q number of queries.
+Each of the next Q lines contains integer M.
 
-Each of the next Q lines contains integer M.Output:
+Output:
+For each query output number of games having price less than M for that query.
 
-For each query output number of games having price less than M for that query.Sample Input :
+Sample Input :
 
 5
 1 4 10 5 6
