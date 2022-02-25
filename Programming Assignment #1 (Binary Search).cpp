@@ -1,3 +1,4 @@
+/*
 *********** Instructions ***********
 Binary Search
 
@@ -32,6 +33,7 @@ Output for the sample input :
 5
 
 ************************************
+*/
 
 #include <iostream>
 using namespace std;
