@@ -1,4 +1,5 @@
-/************ Instructions ***********
+/*
+*********** Instructions ***********
 Sorting
 
 Riverfield Country Day School will be hosting its Prom Night tonight.There would be M boys and N girls at the prom tonight. 
@@ -24,7 +25,8 @@ Output from sample input:
 
 YES
 
-*************************************/
+************************************
+*/
 
 #include <iostream>
 using namespace std;
