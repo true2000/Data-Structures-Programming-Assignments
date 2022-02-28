@@ -1,5 +1,9 @@
 # Data-Structures-Programming-Assignments
 A collection of assignments from my data structures class in spring 2022, code is using C but written in C++ (Using Zybooks CSCI 2683: Data Structures)
+## Academic Integrity Policy
+Students at Tulsa Community College are expected to behave as responsible members of the College community and to be honest and ethical in their academic work. TCC strives to provide students with the knowledge, skills, judgment, and critical thinking needed to function in society. To falsify or fabricate the results of one's research; to present the words, ideas, data, or work of another as one's own; or to cheat on an examination corrupts the essential process of higher education and is a disservice to the student, faculty, and staff community. All TCC community members share the responsibility and authority to challenge and report acts of academic dishonesty.
+
+For more information please review [SH.02.A – Academic Integrity Policy](https://www.tulsacc.edu/student-resources/student-handbook/academic-policies#sh-02-a)
 ## [Programming Assignment #1](https://github.com/true2000/Data-Structures-Programming-Assignments/blob/main/Programming%20Assignment%20%231%20(Binary%20Search).cpp)
 Binary Search
 
