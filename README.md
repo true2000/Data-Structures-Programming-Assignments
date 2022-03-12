@@ -24,3 +24,11 @@ Select all the subparts of the list that contain only even integers. For example
 then the selected subparts will be {2,8}, {12,16}. Reverse the selected subpart such as {8,2} and {16,12}. The list should now be {1,8,2,9,16,12}.
 
 Your node definition should consist of 2 elements: the integer value and a pointer to a node.
+## [Programming Assignment #4](https://github.com/true2000/Data-Structures-Programming-Assignments/blob/main/Programming%20Assignment%20%234%20(Stacks%20%26%20Queues).cpp)
+Stacks & Queues
+
+Along with the usual stack operations, you also need to implement some new ones. 
+Like you may have to push given element 'n' times, or pop multiple times through a single function.
+
+Input: The first line will contain one integer, q the number of queries. Next q lines follow.
+Each line contains 5 types of queries
